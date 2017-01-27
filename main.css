@@ -1,0 +1,226 @@
+body {
+	background-image: url("Images/backgroundimage.png"); 
+	background-repeat: no-repeat;
+	background-size: 100%;   
+}
+
+#headercontainer {
+	display: inline-block;
+    width: 100vw;
+    height: 60px;
+}
+
+#h1 {
+	position: absolute;
+	margin-top: 3%; 
+	margin-left: 6%; 
+}
+
+.lefnavlink {
+	float: right; 
+}
+
+.rightnavlink {
+	float: right; 
+}
+
+nav {
+	box-sizing: border-box;
+	display: inline-block; 
+	float: right;   
+	width: 40%; 
+	min-width: 400px; 
+	margin-right: -10%;
+	margin-top: 5%; 
+}
+
+a {
+	color: #ffffff; 
+	text-decoration: none; 
+	font-family: futura;
+	padding-right: 6%; 
+
+}
+
+#taglines {
+	margin-top: 15%; 
+}
+
+#tagline1 {
+	color: #ffffff; 
+	font-family: futura; 
+	font-size: 1.8em; 
+	margin-left: 6%; 
+}
+
+#tagline2 {
+	color: #ffffff; 
+	font-family: futura; 
+	font-size: 1.8em; 
+	margin-left: 18%; 
+}
+
+#cta1 {
+	margin-top: 14.5%; 
+}
+
+#ctatext1 {
+	margin-left: 6%; 
+	font-size: 1.6em; 
+	font-family: futura; 
+	color: #9B9B9B; 
+	margin-top: 1%; 
+	float:left;
+}
+
+#ctaimage1 {
+	margin-left: 5%; 
+	float: left;
+}
+
+content {
+	text-align: center; 
+}
+
+#science {
+	clear: left; 
+	font-size: 1.4em; 
+	font-family: futura; 
+	padding-top: 2%;
+}
+
+#line1 {
+	padding-top: 2%; 
+}
+
+#prototype1 {
+	width: 90%; 
+	height: 90%; 
+	background-color: #FCFCFC;
+	position: absolute; 
+	margin-left: 5%; 
+	box-shadow: 5px 5px 5px 5px #888888;
+	margin-top: 3%; 
+	background-color: hsla(0, 100%, 90%, 0.3);
+	border-radius: 1%; 
+}
+
+#exp1 {
+	float: left; 
+	font-family: futura; 
+	font-size: 1em; 
+	margin-top: 1%;
+	margin-left: 25%; 
+}
+
+#workout {
+	width: 23%; 
+	height: auto; 
+	float: left;
+	margin-top: 3%;  
+	margin-left: -22.5%; 
+}
+
+#explanation1 {
+	font-family: futura; 
+	font-size: 1.2em; 
+	margin-top: 20%;
+	float: left;
+	text-align: left; 
+	margin-left: 5%;  
+	display: flex;
+	flex-flow: row;
+}
+
+#line2 {
+	margin-top: 55%; 
+}
+
+#prototype2 {
+	width: 90%; 
+	height: 90%; 
+	background-color: #FCFCFC;
+	position: absolute; 
+	margin-left: 5%;  
+	box-shadow: 5px 5px 5px 5px #888888; 
+	margin-top: 3%; 
+	background-color: hsla(0, 100%, 90%, 0.3);
+	border-radius: 1%; 
+}
+
+#exp2 {
+	font-family: futura; 
+	font-size: 1em; 
+	margin-top: 1%; 
+	float: left;
+	margin-top: 1%;
+	margin-left: 25%; 
+}
+
+#mood {
+	width: 23%; 
+	height: auto; 
+	float: left; 
+	margin-top: 3%;  
+	margin-left: -22.5%; 
+}
+
+#explanation2 {
+	font-family: futura; 
+	font-size: 1.2em; 
+	margin-top: 20%;
+	float: left; 
+	text-align: left; 
+	margin-left: 5%;  
+}
+
+#line3 {
+	margin-top: 57%; 
+}
+
+#end {
+	position: absolute;
+	margin-top: 3%; 
+	background-color: hsla(136, 31%, 98%, 0.9); 
+	width: 100%; 
+	height: 25%;
+	margin: center;
+	margin-bottom: 0%; 
+}
+
+#cta2 {
+	margin-top: 2%; 
+}
+
+ #ctatext2 {
+	margin-left: 6%; 
+	font-size: 1.5em; 
+	font-family: futura; 
+	color: black; 
+	margin-top: 1%; 
+	float:left;
+}
+
+#ctaimage2 {
+	margin-left: 5%; 
+	float: left;
+	padding-bottom: 2%; 
+}
+
+#social {
+	clear: left; 
+	text-align: center; 
+	margin-top: 2%; 
+}
+
+footer {
+	position: absolute;
+	margin-top: 16%; 
+	position: absolute;
+	width: 100%; 
+	margin: center;
+	background-color: black; 
+	color: #ffffff; 
+	text-align: center;
+	font-size: .7em; 
+}

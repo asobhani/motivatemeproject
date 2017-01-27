@@ -1,0 +1,76 @@
+@media only screen and (max-width: 600px) {
+	
+	#headercontainer {
+		position: absolute;
+		max-width: 100%; 
+		height: auto;
+	}
+
+	#h1 {
+		position: absolute;
+		width: 30%; 
+		height: auto;
+	}
+
+/*comment to do
+	.leftnavlink {}
+
+	.rightnavlink {}
+
+	nav {}
+
+	a {}
+
+	#taglines {}
+
+	#tagline1 {}
+
+	#tagline2 {}
+
+	#cta1 {}
+
+	#ctatext1 {}
+
+	#ctaimage1 {}
+
+	content {}
+
+	#science {}
+
+	#line1 {}
+
+	#prototype1 {}
+
+	#exp1 {}
+
+	#workout {}
+
+	#explanation1 {}
+
+	#line2 {}
+
+	#prototype2 {}
+
+	#exp2 {}
+
+	#mood {}
+
+	#explanation2 {}
+
+	#line3 {}
+
+	#end {}
+
+	#cta2 {}
+
+	#ctatext2 {}
+
+	#ctaimage2 {}
+
+	#social {}
+
+	footer {}
+	*/
+} 
+
+
